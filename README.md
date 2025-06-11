@@ -20,7 +20,7 @@ A simplified, open-source e-commerce web app inspired by Amazon. This project is
 **DevOps:**
 - Docker
 - GitHub Actions (CI)
-- Railway / Vercel (Deployment)
+- Vercel (Deployment)
 
 ---
 
