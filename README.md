@@ -45,7 +45,7 @@ Live Demo (coming soon)
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/amazon-clone.git
-cd amazon-clone
+git clone https://github.com/opensourcehub-byte/amazonclone.git
+cd amazonclone
 
 
