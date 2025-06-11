@@ -1,51 +1,12 @@
-# 🛍️ Amazon Clone - Open Source E-commerce Platform
+# React + Vite
 
-A simplified, open-source e-commerce web app inspired by Amazon. This project is built for learning, contributing, and collaborating.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-## 🔧 Tech Stack
+Currently, two official plugins are available:
 
-**Frontend:**
-- React
-- CSS
-- JavaScript
-- React Router
-- Axios
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
 
-**Backend:**
-- Node.js
-- Express
-- MongoDB
-- ...(Authentication)
+## Expanding the ESLint configuration
 
-**DevOps:**
-- Docker
-- GitHub Actions (CI)
-- Vercel (Deployment)
-
----
-
-## 🚀 Features
-
-- User authentication (Register/Login)
-- Product listings with search/filter
-- Shopping cart & checkout flow
-- Order history
-- Admin dashboard for managing products & orders
-
----
-
-## 🖥️ Demo
-
-Live Demo (coming soon)
-
----
-
-## 🛠️ Getting Started
-
-### 1. Clone the repository
-
-```bash
-git clone https://github.com/opensourcehub-byte/amazonclone.git
-cd amazonclone
-
-
+If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
